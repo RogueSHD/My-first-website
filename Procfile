@@ -1,0 +1,1 @@
+web: gunicorn fadhlan.wsgi --log-file -
